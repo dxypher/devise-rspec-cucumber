@@ -1,0 +1,1 @@
+This is a simple app that uses rails 3, devise for authentication, rspec for unit testing, and cucumber for integration testing
